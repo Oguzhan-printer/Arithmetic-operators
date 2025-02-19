@@ -1,4 +1,6 @@
-Input: The code first prompts the user to enter two numbers.  input() function is used to get the input from the user, and int() function converts the input string to an integer. These integers are stored in the variables first_number and second_number.
+Input: The code first prompts the user to enter two numbers.  
+input() function is used to get the input from the user, and int() function converts the input string to an integer. 
+These integers are stored in the variables first_number and second_number.
 
 Calculations:  The code then performs the following arithmetic operations:
 
